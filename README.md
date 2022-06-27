@@ -27,7 +27,11 @@
        src
         ↳ DataStructure
           ↳ week1
-            ↳ Boj2557_YourGithubID 
+            ↳ KimKyungHyunn
+              ↳ ...
+              
+            ↳ ffolabear
+              ↳ Boj2557_YourGithubID 
        ``` 
 
      * `commit message` 는 ` 문제이름 - 성공 / 실패` 로 간략히 작성 
