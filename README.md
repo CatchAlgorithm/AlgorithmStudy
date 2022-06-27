@@ -22,9 +22,13 @@
        + 단어와 단어의 구분은 `camel case`로 하되 깃허브 아이디는 `snake case` (언더바 _ )로 구분
        </br> 
        
+     * 패키지 구조 예시
        ```
-       Boj2557_YourGithubID
-       ```
+       src
+        ↳ DataStructure
+          ↳ week1
+            ↳ Boj2557_YourGithubID 
+       ``` 
 
      * `commit message` 는 ` 문제이름 - 성공 / 실패` 로 간략히 작성 
 
