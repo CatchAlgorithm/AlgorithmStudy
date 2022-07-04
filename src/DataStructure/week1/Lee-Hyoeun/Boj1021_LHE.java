@@ -1,4 +1,4 @@
-package easy1000s;
+package DataStructure.week1.Lee-Hyoeun;
 
 import java.util.LinkedList;
 import java.util.Scanner;
