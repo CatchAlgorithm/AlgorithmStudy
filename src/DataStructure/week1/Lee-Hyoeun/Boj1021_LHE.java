@@ -3,7 +3,7 @@ package DataStructure.week1.Lee-Hyoeun;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class no1021 {
+public class Boj1021_LHE {
 public static void main(String[] args) {
 		
 		Scanner in = new Scanner(System.in);
