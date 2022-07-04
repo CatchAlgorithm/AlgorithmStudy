@@ -1,4 +1,4 @@
-package DataStructure.week1.Lee-Hyoeun;
+package DataStructure.week1.LeeHyoeun;
 
 import java.util.LinkedList;
 import java.util.Scanner;
